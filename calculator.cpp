@@ -20,7 +20,7 @@ struct login
 long number , total=0 , M=0;
 short sign , flag=1 , inerr1=0;
 
-/*void home()
+void home()
 {
 	char username[20];
 	char password[20];
@@ -51,7 +51,7 @@ short sign , flag=1 , inerr1=0;
 	}
 	else
 		return;
-}*/
+}
 
 void add()
 {
