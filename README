@@ -1,0 +1,30 @@
+********************************************************************************
+
+calculator
+
+********************************************************************************
+
+Contents:
+1. Introduction
+2. Understanding the code
+3. Usage
+
+********************************************************************************
+1. Introduction
+
+This is a C11 standards compliant CLI scientific calculator. It provides a
+number of functions, as documented in "calculator.c".
+
+********************************************************************************
+2. Understanding the code
+
+The various mathematical operations are divided into functions. "numinput.h"
+header provides necessary functions for taking numeric input.
+
+********************************************************************************
+3. Usage
+
+You only have to enter the operation number, which then asks for an additional
+number, if necessary.
+
+********************************************************************************
